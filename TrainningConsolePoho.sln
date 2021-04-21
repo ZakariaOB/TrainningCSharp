@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainningConsolePoho", "TrainningConsolePoho.csproj", "{2AF89B52-1159-46B2-9D30-269DEBCF1AAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AF89B52-1159-46B2-9D30-269DEBCF1AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF89B52-1159-46B2-9D30-269DEBCF1AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AF89B52-1159-46B2-9D30-269DEBCF1AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF89B52-1159-46B2-9D30-269DEBCF1AAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42CC700D-AD0A-4BDF-8FA8-4074E1DD1A90}
+	EndGlobalSection
+EndGlobal
